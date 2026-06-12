@@ -67,7 +67,9 @@ Sou apaixonado por tecnologia e estou construindo minha trajetória na área de 
 <p>
   <img
     align="left"
+    alt="Github Stats"
     height="200"
+    style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=jaoware&show_icons=true&theme=dark&locale=pt-br&include_all_commits=true"
   />
 
