@@ -37,7 +37,7 @@ Sou apaixonado por tecnologia e estou construindo minha trajetória na área de 
 
 #
 
-<img align="right" alt="" height="190px" src="./src/edgerunners.gif">
+<img align="right" alt="" height="190px" src="./src/thorffin.gif">
 
 <h3 align="left">Connect with me!</h3>
 
