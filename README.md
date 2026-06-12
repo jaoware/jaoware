@@ -74,7 +74,7 @@ Sou apaixonado por tecnologia e estou construindo minha trajetória na área de 
 <img
  align="left"
  height="200"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaoware&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaoware&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=8"
 />
 
 </p>
