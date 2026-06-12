@@ -4,10 +4,8 @@
   </a>
 </div>
 
-#
-
-# Olá! Eu sou João Serra 👋
-
+## Olá! Eu sou João Serra 👋
+<img align="right" alt="Coding GIF" width="180px" src="./src/coding.gif">
 🎓 Estudante de Engenharia de Software
 
 Sou apaixonado por tecnologia e estou construindo minha trajetória na área de desenvolvimento de software. Atualmente estudo programação, banco de dados, redes de computadores e infraestrutura de dados, sempre buscando transformar conhecimento em projetos práticos.
