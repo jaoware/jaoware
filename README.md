@@ -68,7 +68,7 @@ Sou apaixonado por tecnologia e estou construindo minha trajetória na área de 
   <img
     align="left"
     height="200"
-    src="https://github-readme-stats.vercel.app/api?username=jaoware&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=jaoware&show_icons=true&theme=dark&locale=pt-br&include_all_commits=true"
   />
 
 <img
